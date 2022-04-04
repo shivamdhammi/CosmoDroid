@@ -16,3 +16,4 @@ rootProject.name = "CosmoDroid"
 include ':app'
 include ':stringmodule'
 include ':networkmodule'
+include ':baseui'
